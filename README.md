@@ -1,5 +1,7 @@
 # CoinMetrics — Portfolio Intelligence Dashboard
 
+[![CoinMetrics Java CI](https://github.com/nimrah-a/CoinMetrics/actions/workflows/java-ci.yml/badge.svg)](https://github.com/nimrah-a/CoinMetrics/actions/workflows/java-ci.yml)
+
 **Understand the market. Track your strategy.** A polished Java 17 desktop application for researching cryptocurrency markets, recording local portfolio positions, and comparing digital assets. Inspired by modern fintech interfaces, built with Java Swing and Java2D without third-party dependencies.
 
 ![CoinMetrics V2 desktop dashboard with portfolio allocation, sample market charts, and holdings](docs/dashboard-preview.png)
